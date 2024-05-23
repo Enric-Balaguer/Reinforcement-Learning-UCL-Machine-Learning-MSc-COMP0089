@@ -1,3 +1,3 @@
-# Reinforcement Learning UCL Machine Learning MSc.
+# Reinforcement Learning UCL Machine Learning MSc
 
 2023/2024 Coursework Submission.
